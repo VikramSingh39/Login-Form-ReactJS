@@ -1,3 +1,30 @@
+# Node Modules
 node_modules/
+
+# Build Output
 dist/
+
+#Vite cache
 .vite/
+
+# Environment Variables
+.env
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
