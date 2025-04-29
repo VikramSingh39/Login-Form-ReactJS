@@ -1,5 +1,6 @@
 # Node Modules
 node_modules/
+.DS_Store
 
 # Build Output
 dist/
@@ -26,5 +27,5 @@ lerna-debug.log*
 *.sln
 
 # System files
-.DS_Store
+
 Thumbs.db
